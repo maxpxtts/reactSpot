@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>A better spotify!</Text>
+      <Text>A better spotify! hopefully</Text>
     </View>
   );
 }
